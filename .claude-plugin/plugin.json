@@ -1,0 +1,17 @@
+{
+  "name": "nikhil-claude-skill",
+  "description": "Nikhil's coding workflow for implementing, debugging, reviewing, and refactoring code in Claude or Codex. Use to make focused changes, avoid overengineering, and verify the requested behavior.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nikhil Varma"
+  },
+  "license": "MIT",
+  "keywords": [
+    "coding",
+    "guidelines",
+    "nikhil"
+  ],
+  "skills": [
+    "./skills/nikhil-claude-skill"
+  ]
+}

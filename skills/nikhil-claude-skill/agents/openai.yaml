@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nikhil Claude Skill"
+  short_description: "Focused coding with simple changes and verification"
+  default_prompt: "Use $nikhil-claude-skill to implement this change and verify the requested behavior."
